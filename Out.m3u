@@ -1,13 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1200px-Outdoor_Channel_logo_2017.svg.png", Outdoor Channel
 https://e1.thetvapp.to/hls/OutdoorChannel.m3u8?token=GzdJCrBtNTgCf9qjDSUIUw&expires=1690343787
-
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ae/73/4b/ae734b31-66be-3776-9907-a9f5b1e99f83/App_Icon-marketing.lsr/1200x630bb.png", Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://dgtwo.com//wp-content/themes/DG2/images/selected-work/Outdoor-America/thumbnails/Outdoor-America-thumb_01.jpg", Out Door America
 https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://logoimagesv2.id-visitors.com/8/e/d/b/6/7/8edb674bed5b4b84bc64f246789950dd.png", OutSide Tv America
 https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
-
