@@ -1,2 +1,2 @@
- #EXTINF:-1 tvg-name="Outdoorchannel" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/019f9a50258033.58cb840c2b144.jpg" tvg-id="OUTDOOR CHANEL" group-title="USA",
-https://thetvapp.to/tv/outdoor-channel-live-stream/
+#EXTM3U
+#EXTINF:0,https://thetvapp.to/tv/outdoor-channel-live-stream/
